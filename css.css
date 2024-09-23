@@ -6,6 +6,9 @@ body, html {
   height: 100%;
   font-family: Arial, sans-serif;
 }
+.space {
+   margin-bottom: 20px; /* Adjust the value as needed */
+}
 
 .container {
   position: relative;
@@ -100,6 +103,7 @@ ul li:nth-child(8)
 {
 	animation-delay: 1.8s;
 }
+
 
 
 
