@@ -13,16 +13,15 @@ body, html {
   overflow: hidden;
 }
 
-.background img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: blur(10px);
-    z-index: -1;
-    opacity: 0.0; /* 50% opacity for the background image */
+.background {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  filter: blur(8px); /* Apply blur effect */
 }
 
 .overlay {
