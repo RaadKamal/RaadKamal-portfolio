@@ -11,5 +11,5 @@ $.keyframe.define([{
 
 $("li").playKeyframe({
     name: 'animate',
-    duration: 60000000
+    duration: 2000
 });
