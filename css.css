@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.opaque-image {
+    opacity: 1; /* Fully opaque */
+}
+
+.translucent-image {
+    opacity: 0.5; /* 50% transparent */
+}
