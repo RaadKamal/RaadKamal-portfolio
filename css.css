@@ -65,36 +65,36 @@ ul li
 	font-size: 5em;
 	font-family: verdana;
 	letter-spacing: 20px;
-	animation: animate 6.9s linear infinite; 
+	animation: animate 7.3s linear infinite; 
 }
 
 ul li:nth-child(1)
 {
-	animation-delay: 0.2s;
+	animation-delay: 0.4s;
 }
 ul li:nth-child(2)
 {
-	animation-delay: 0.4s;
+	animation-delay: 0.8s;
 }
 ul li:nth-child(3)
 {
-	animation-delay: 0.6s;
+	animation-delay: 0.12s;
 }
 ul li:nth-child(4)
 {
-	animation-delay: 0.8s;
+	animation-delay: 0.16s;
 }
 ul li:nth-child(5)
 {
-	animation-delay: 1s;
+	animation-delay: 2s;
 }
 ul li:nth-child(6)
 {
-	animation-delay: 1.2s;
+	animation-delay: 2.4s;
 }
 ul li:nth-child(7)
 {
-	animation-delay: 1.4s;
+	animation-delay: 2.8s;
 }
 
 
