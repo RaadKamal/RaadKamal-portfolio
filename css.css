@@ -21,7 +21,8 @@ body, html {
   top: 0;
   left: 0;
   z-index: -2;
-  opacity: 0.5; /* 50% opacity for the background image */
+  filter: blur(10px);
+  opacity: 1.0; /* 50% opacity for the background image */
 }
 
 .overlay {
