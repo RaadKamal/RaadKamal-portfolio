@@ -82,16 +82,13 @@ ul li:nth-child(3)
 	animation-delay: 0.6s;
 }
 ul li:nth-child(4)
-{
+{       
 	animation-delay: 0.8s;
-}
- ul li.space 
-{
-        height: 20px; /* Adjust the value as needed */
 }
 
 ul li:nth-child(5)
 {
+	width: 20px;
 	animation-delay: 1s;
 }
 ul li:nth-child(6)
