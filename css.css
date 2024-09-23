@@ -7,9 +7,6 @@ body, html {
   font-family: Arial, sans-serif;
 }
 
-.space-after {
-   margin-bottom: 20px; /* Adjust the value as needed */
-}
 
 .container {
   position: relative;
