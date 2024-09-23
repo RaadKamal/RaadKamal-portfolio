@@ -4,7 +4,7 @@
 }
 
 .opaque-image {
-    opacity: 1; /* Fully opaque */
+    opacity: 0.5; /* Fully opaque */
 }
 
 .translucent-image {
