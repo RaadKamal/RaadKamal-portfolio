@@ -93,11 +93,11 @@ ul li:nth-child(5)
 }
 ul li:nth-child(6)
 {       
-	width: 110px;
+	
 	animation-delay: 1.2s;
 }
 ul li:nth-child(7)
-{       width: 110px;
+{      
 	animation-delay: 1.4s;
 }
 ul li:nth-child(8)
