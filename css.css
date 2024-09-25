@@ -36,7 +36,7 @@ body1, html {
 }
 
 .content {
-  position: relative;
+  position: centre;
   color: white;
   text-align: center;
   padding: 20px;
