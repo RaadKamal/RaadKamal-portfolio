@@ -8,7 +8,7 @@ body, html {
 }
 
 
-.container {
+.container1 {
   position: relative;
   height: 100vh;
   overflow: hidden;
@@ -116,7 +116,7 @@ body {
   background: #1f1f47
 }
 
-.container {
+.container2 {
   min-height: 100vh;
   width: 100%;
   display: flex;
