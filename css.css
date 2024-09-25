@@ -1,6 +1,6 @@
 
 /* styles.css */
-body, html {
+body1, html {
   margin: 0;
   padding: 0;
   height: 100%;
@@ -112,9 +112,6 @@ ul li:nth-child(8)
 	font-family: "Nunito", sans-serif;
 }
 
-body {
-  background: #1f1f47
-}
 
 .container2 {
   min-height: 100vh;
