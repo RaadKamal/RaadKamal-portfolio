@@ -140,7 +140,7 @@ ul li:nth-child(8)
 
 
 .container2 {
-  min-height: 150vh;
+  min-height: 50vh;
   width: 100%;
   display: flex;
   justify-content: center;
