@@ -8,7 +8,7 @@ body1, html {
 
 
 .container1 {
-  position: fixed ;
+  position: absolute ;
   top: 10px
   height: 100vh;
   overflow: hidden;
@@ -152,8 +152,8 @@ ul li:nth-child(8)
   border: none;
   text-align: center;
   font-size: 1rem;
-  color: blue;
-  background-color: #fa709a;
+  color: whitesmoker;
+  background-color: #4169e1;
   padding: 0.8rem 1.8rem;
   border-radius: 2rem;
   cursor: pointer;
