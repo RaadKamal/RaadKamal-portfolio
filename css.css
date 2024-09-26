@@ -1,5 +1,5 @@
 /* styles.css */
-body1, html {
+body, html {
   margin: 0;
   padding: 0;
   height: 100%;
@@ -140,7 +140,7 @@ ul li:nth-child(8)
 
 
 .container2 {
-  min-height: 100vh;
+  min-height: 150vh;
   width: 100%;
   display: flex;
   justify-content: center;
