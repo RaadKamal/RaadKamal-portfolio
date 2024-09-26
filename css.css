@@ -9,7 +9,7 @@ body1, html {
 
 
 .container1 {
-  position: absolute;
+  position: relative;
   height: 100vh;
   overflow: hidden;
 }
@@ -42,9 +42,9 @@ body1, html {
   padding: 20px;
 }
 
-body
+body2
 {       
-	position: top;
+	position: centre;
 	margin:50;
 	padding:50;
 	background:#262626;
