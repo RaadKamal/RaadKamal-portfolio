@@ -9,7 +9,7 @@ body, html {
 
 .container1 {
   position: relative;	
-  height: 20vh;
+  height: 100vh;
   overflow: hidden;
 }
 
