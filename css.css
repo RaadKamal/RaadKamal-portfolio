@@ -22,7 +22,7 @@ body1, html {
   top: 0;
   left: 0;
   z-index: -2;
-  filter: blur(5px); /* Apply blur effect */
+  filter: blur(3px); /* Apply blur effect */
 }
 
 .overlay {
@@ -152,8 +152,8 @@ ul li:nth-child(8)
   border: none;
   text-align: center;
   font-size: 1rem;
-  color: whitesmoker;
-  background-color: #4169e1;
+  color: whitesmoke;
+  background-color: #b0c4de;
   padding: 0.8rem 1.8rem;
   border-radius: 2rem;
   cursor: pointer;
