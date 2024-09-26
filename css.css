@@ -8,8 +8,6 @@ body1, html {
 
 
 .container1 {
-  justify-content: top;
-  align-items: top;
   position: relative;	
   height: 50vh;
   overflow: hidden;
