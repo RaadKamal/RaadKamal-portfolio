@@ -8,7 +8,7 @@ body1, html {
 
 
 .container1 {
-  position: absolute ;
+  position: relative ;
   height: 100vh;
   overflow: hidden;
 }
